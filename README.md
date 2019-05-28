@@ -1,0 +1,1 @@
+# apps-gcp-firebase-auth-sample-app
